@@ -28,5 +28,54 @@
       "lastName": "Kohli",
       "age": 39
     }
-  ]
+  ],
+
+  "tickets": [
+	{
+        "subject": "Academics - Pearson books not available",
+        "ticketNo": "00001819",
+        "openDate": "2023-01-23",
+        "statusColor": "#d2232a",
+        "requestStatus": "open",
+        "inProgressDate": "-",
+        "expectedCloseDate": "2023-01-30",
+        "isEscalate": true
+        },
+
+	{
+        "subject": "Academics - Sessions video not found",
+        "ticketNo": "00001829",
+        "openDate": "2023-01-01",
+        "statusColor": "#d2232a",
+        "requestStatus": "open",
+        "inProgressDate": "-",
+        "expectedCloseDate": "2023-01-10",
+        "isEscalate": true
+        },
+
+	{
+        "subject": "Academics - Unable to download resources",
+        "ticketNo": "00001719",
+        "openDate": "2023-01-05",
+        "statusColor": "#d2232a",
+        "requestStatus": "open",
+        "inProgressDate": "-",
+        "expectedCloseDate": "2023-01-20",
+        "isEscalate": false
+        },
+
+	{
+        "subject": "Academics - Academics calendar showing duplicate data",
+        "ticketNo": "00001919",
+        "openDate": "2023-01-28",
+        "statusColor": "#d2232a",
+        "requestStatus": "open",
+        "inProgressDate": "-",
+        "expectedCloseDate": "2023-01-30",
+        "isEscalate": true
+        }
+
+
+   ]
+
 }
