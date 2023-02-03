@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "Sachin",
+      "middlename": "Ramesh",
+      "lastName": "Tendulkar",
+      "age": 47,
+      "id": 1
+    },
+    {
+      "id": 4,
+      "firstName": "Rohit",
+      "middleName": "Suresh",
+      "lastName": "Sharma",
+      "age": 45
+    },
+    {
+      "id": 2,
+      "firstName": "Mahendra",
+      "middleName": "Singh",
+      "lastName": "Dhoni",
+      "age": 50
+    },
+    {
+      "id": 3,
+      "firstName": "Virat",
+      "middleName": "Chiku",
+      "lastName": "Kohli",
+      "age": 39
+    }
+  ]
+}
