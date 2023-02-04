@@ -76,6 +76,30 @@
         }
 
 
-   ]
+   ],
+
+   "ticketsFeedback": [
+          {
+            "subject": "Academics - Pearson books not available",
+            "openDate": "2023-01-20",
+            "statusColor": "#d2232a",
+            "requestStatus": "closed"  
+          },
+
+          {
+            "subject": "Academics - Sessions video not found",
+            "openDate": "2023-01-18",
+            "statusColor": "#d2232a",
+            "requestStatus": "closed"  
+          },
+
+          {
+            "subject": "Academics - Academics calendar showing duplicate data",
+            "openDate": "2023-01-23",
+            "statusColor": "#d2232a",
+            "requestStatus": "closed"  
+          }
+  
+     ]
 
 }
