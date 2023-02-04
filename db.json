@@ -30,7 +30,7 @@
     }
   ],
 
-  "tickets": [
+  "closdeTickets": [
 	{
         "subject": "Academics - Pearson books not available",
         "ticketNo": "00001819",
