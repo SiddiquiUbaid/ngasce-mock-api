@@ -30,7 +30,52 @@
     }
   ],
 
-  "closdeTickets": [
+  "closedTickets": [
+	{
+        "subject": "Academics - Pearson books not available",
+        "ticketNo": "00001819",
+        "openDate": "2023-01-23",
+        "statusColor": "#d2232a",
+        "requestStatus": "closed",
+        "closeDate": "2023-01-30",
+        
+        },
+
+	{
+        "subject": "Academics - Pearson books not available",
+        "ticketNo": "00001718",
+        "openDate": "2023-01-20",
+        "statusColor": "#d2232a",
+        "requestStatus": "closed",
+        "closeDate": "2023-01-23",
+        
+        },
+
+	{
+        "subject": "Academics - Pearson books not available",
+        "ticketNo": "00001817",
+        "openDate": "2023-01-17",
+        "statusColor": "#d2232a",
+        "requestStatus": "closed",
+        "closeDate": "2023-01-20",
+        
+        },
+
+	{
+        "subject": "Academics - Pearson books not available",
+        "ticketNo": "00001633",
+        "openDate": "2023-01-10",
+        "statusColor": "#d2232a",
+        "requestStatus": "closed",
+        "closeDate": "2023-01-15",
+        
+        }
+
+
+   ],
+	
+
+"openTickets": [
 	{
         "subject": "Academics - Pearson books not available",
         "ticketNo": "00001819",
@@ -39,7 +84,7 @@
         "requestStatus": "open",
         "inProgressDate": "-",
         "expectedCloseDate": "2023-01-30",
-        "isEscalate": true
+        "isEscalate": false
         },
 
 	{
@@ -61,7 +106,7 @@
         "requestStatus": "open",
         "inProgressDate": "-",
         "expectedCloseDate": "2023-01-20",
-        "isEscalate": false
+        "isEscalate": true
         },
 
 	{
@@ -72,11 +117,12 @@
         "requestStatus": "open",
         "inProgressDate": "-",
         "expectedCloseDate": "2023-01-30",
-        "isEscalate": true
+        "isEscalate": false
         }
 
 
    ],
+
 
    "ticketsFeedback": [
           {
