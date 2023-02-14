@@ -78,51 +78,63 @@
   
 "openTickets": [
 	{
-	"id": 0,
-        "subject": "Academics - Person books not available",
-        "ticketNo": "00001819",
-        "openDate": "2023-01-23",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-30",
-        "isEscalate": false
+		"id": 0,
+        	"subject": "Academics - Person books not available",
+		"category": "Academics",
+		"subCategory": "Books",
+		"description": "Not able to view and download books and pdf from resources from last 3 days",
+		"ticketNo": "00001819",
+		"openDate": "2023-01-23",
+		"statusColor": "#d2232a",
+		"requestStatus": "open",
+		"inProgressDate": "-",
+		"expectedCloseDate": "2023-01-30",
+		"isEscalate": false
         },
 
 	{
-	"id": 1,
-        "subject": "Academics - Sessions video not found",
-        "ticketNo": "00001829",
-        "openDate": "2023-01-01",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-10",
-        "isEscalate": true
+		"id": 1,
+		"subject": "Academics - Sessions video not found",
+		"category": "Academics",
+		"subCategory": "Lectures",
+		"description": "Not able to view and download session videos, screen stuck while loading",
+		"ticketNo": "00001829",
+		"openDate": "2023-01-01",
+		"statusColor": "#d2232a",
+		"requestStatus": "open",
+		"inProgressDate": "-",
+		"expectedCloseDate": "2023-01-10",
+		"isEscalate": true
         },
 
 	{
-	"id": 2,
-        "subject": "Academics - Unable to download resources",
-        "ticketNo": "00001719",
-        "openDate": "2023-01-05",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-20",
-        "isEscalate": true
+		"id": 2,
+		"subject": "Academics - Unable to download resources",
+		"category": "Academics",
+		"subCategory": "Resource",
+		"description": "Exam is near, not able to study offline because resources are not downloadble",
+		"ticketNo": "00001719",
+		"openDate": "2023-01-05",
+		"statusColor": "#d2232a",
+		"requestStatus": "open",
+		"inProgressDate": "-",
+		"expectedCloseDate": "2023-01-20",
+		"isEscalate": true
         },
 
 	{
-	"id": 3,
-        "subject": "Academics - Academics calendar showing duplicate data",
-        "ticketNo": "00001919",
-        "openDate": "2023-01-28",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-30",
-        "isEscalate": false
+		"id": 3,
+		"subject": "Academics - Academics calendar showing duplicate data",
+		"category": "Academics",
+		"subCategory": "Calendar",
+		"description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
+		"ticketNo": "00001919",
+		"openDate": "2023-01-28",
+		"statusColor": "#d2232a",
+		"requestStatus": "open",
+		"inProgressDate": "-",
+		"expectedCloseDate": "2023-01-30",
+		"isEscalate": false
         }
 
 
