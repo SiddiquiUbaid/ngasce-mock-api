@@ -33,42 +33,58 @@
 
 "closedTickets": [
 	{
-        "subject": "Academics - Person details not available",
-        "ticketNo": "00001819",
-        "openDate": "2023-01-23",
-        "statusColor": "#d2232a",
-        "requestStatus": "closed",
-        "closeDate": "2023-01-30"
+		"id": 0,
+		"category": "Academics",
+		"subCategory": "Books",
+		"description": "Not able to view and download books and pdf from resources from last 3 days",
+		"subject": "Academics - Person details not available",
+		"ticketNo": "00001819",
+		"openDate": "2023-01-23",
+		"statusColor": "#d2232a",
+		"requestStatus": "closed",
+		"closeDate": "2023-01-30"
         
         },
 	
 	{
-        "subject": "Academics - Server down error on session page",
-        "ticketNo": "00001718",
-        "openDate": "2023-01-20",
-        "statusColor": "#d2232a",
-        "requestStatus": "closed",
-        "closeDate": "2023-01-23"
+		"id": 1,
+		"category": "Academics",
+		"subCategory": "System",
+		"description": "Not able to access session page, server down flashes on session page",
+		"subject": "Academics - Server down error on session page",
+		"ticketNo": "00001718",
+		"openDate": "2023-01-20",
+		"statusColor": "#d2232a",
+		"requestStatus": "closed",
+		"closeDate": "2023-01-23"
         
         },
 
 	{
-        "subject": "Academics - infinite reload on resource page",
-        "ticketNo": "00001817",
-        "openDate": "2023-01-17",
-        "statusColor": "#d2232a",
-        "requestStatus": "closed",
-        "closeDate": "2023-01-20"
+		"id": 2,
+		"category": "Academics",
+		"subCategory": "App",
+		"description": "infinite reload on resource page Not able to view and download resources",
+		"subject": "Academics - infinite reload on resource page",
+		"ticketNo": "00001817",
+		"openDate": "2023-01-17",
+		"statusColor": "#d2232a",
+		"requestStatus": "closed",
+		"closeDate": "2023-01-20"
         
         },
 
 	{
-        "subject": "Academics - Downloaded file not showing",
-        "ticketNo": "00001633",
-        "openDate": "2023-01-10",
-        "statusColor": "#d2232a",
-        "requestStatus": "closed",
-        "closeDate": "2023-01-15"
+		"id": 3,
+		"category": "Academics",
+		"subCategory": "Books",
+		"description": "Not able to view and download files and docs from resources from last 6 days",
+		"subject": "Academics - Downloaded file not showing",
+		"ticketNo": "00001633",
+		"openDate": "2023-01-10",
+		"statusColor": "#d2232a",
+		"requestStatus": "closed",
+		"closeDate": "2023-01-15"
         
         }
 	
