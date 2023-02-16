@@ -83,7 +83,34 @@
 		"openDate": "2023-01-20",
 		"statusColor": "#d2232a",
 		"requestStatus": "closed",
-		"closeDate": "2023-01-23"
+		"closeDate": "2023-01-23",
+		"comments":[ 
+			{
+			      "id": 0,
+			      "name": "Ubaid Siddiqui",
+			      "timeOfComment": 1676441471560,
+			      "comment": "Is your issue solved now?"
+			  },
+			{
+			      "id": 1,
+			      "name": "John Pearson",
+			      "timeOfComment": 1676441481560,
+			      "comment": "It's still showing wrong name"
+			  },
+			{
+			      "id": 2,
+			      "name": "Pankaj Tiwary",
+			      "timeOfComment": 1676441491560,
+			      "comment": "The case discussed with backend team, database has wrong name from starting. Your issue will be solved by tomorrow "
+			  },
+			{
+			      "id": 3,
+			      "name": "John Pearson",
+			      "timeOfComment": 1676441471660,
+			      "comment": "Thank you, it is solved now!"
+			  }
+			
+		]
         
         },
 
@@ -97,7 +124,34 @@
 		"openDate": "2023-01-17",
 		"statusColor": "#d2232a",
 		"requestStatus": "closed",
-		"closeDate": "2023-01-20"
+		"closeDate": "2023-01-20",
+		"comments":[ 
+			{
+			      "id": 0,
+			      "name": "Ubaid Siddiqui",
+			      "timeOfComment": 1676441471560,
+			      "comment": "Is your issue solved now?"
+			  },
+			{
+			      "id": 1,
+			      "name": "John Pearson",
+			      "timeOfComment": 1676441481560,
+			      "comment": "It's still showing wrong name"
+			  },
+			{
+			      "id": 2,
+			      "name": "Pankaj Tiwary",
+			      "timeOfComment": 1676441491560,
+			      "comment": "The case discussed with backend team, database has wrong name from starting. Your issue will be solved by tomorrow "
+			  },
+			{
+			      "id": 3,
+			      "name": "John Pearson",
+			      "timeOfComment": 1676441471660,
+			      "comment": "Thank you, it is solved now!"
+			  }
+			
+		]
         
         },
 
@@ -111,7 +165,34 @@
 		"openDate": "2023-01-10",
 		"statusColor": "#d2232a",
 		"requestStatus": "closed",
-		"closeDate": "2023-01-15"
+		"closeDate": "2023-01-15",
+		"comments":[ 
+			{
+			      "id": 0,
+			      "name": "Ubaid Siddiqui",
+			      "timeOfComment": 1676441471560,
+			      "comment": "Is your issue solved now?"
+			  },
+			{
+			      "id": 1,
+			      "name": "John Pearson",
+			      "timeOfComment": 1676441481560,
+			      "comment": "It's still showing wrong name"
+			  },
+			{
+			      "id": 2,
+			      "name": "Pankaj Tiwary",
+			      "timeOfComment": 1676441491560,
+			      "comment": "The case discussed with backend team, database has wrong name from starting. Your issue will be solved by tomorrow "
+			  },
+			{
+			      "id": 3,
+			      "name": "John Pearson",
+			      "timeOfComment": 1676441471660,
+			      "comment": "Thank you, it is solved now!"
+			  }
+			
+		]
         
         }
 	
