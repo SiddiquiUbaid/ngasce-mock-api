@@ -337,7 +337,7 @@
 		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
 		    "openDate": "2023-01-20",
 		    "statusColor": "#d2232a",
-		    "requestStatus": "closed"
+		    "requestStatus": "closed",
 		    "ticketType": "feedback"
           },
 
@@ -348,7 +348,7 @@
 		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
 		    "openDate": "2023-01-18",
 		    "statusColor": "#d2232a",
-		    "requestStatus": "closed"
+		    "requestStatus": "closed",
 		    "ticketType": "feedback"
           },
 
@@ -359,7 +359,7 @@
 		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
 		    "openDate": "2023-01-23",
 		    "statusColor": "#d2232a",
-		    "requestStatus": "closed"  
+		    "requestStatus": "closed",  
 		    "ticketType": "feedback"
           }
   
