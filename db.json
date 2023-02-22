@@ -43,6 +43,7 @@
 		"statusColor": "#d2232a",
 		"requestStatus": "closed",
 		"closeDate": "2023-01-30",
+		"ticketType": "closed",
 		"comments":[ 
 			{
 			      "id": 0,
@@ -84,6 +85,7 @@
 		"statusColor": "#d2232a",
 		"requestStatus": "closed",
 		"closeDate": "2023-01-23",
+		"ticketType": "closed",
 		"comments":[ 
 			{
 			      "id": 0,
@@ -125,6 +127,7 @@
 		"statusColor": "#d2232a",
 		"requestStatus": "closed",
 		"closeDate": "2023-01-20",
+		"ticketType": "closed",
 		"comments":[ 
 			{
 			      "id": 0,
@@ -166,6 +169,7 @@
 		"statusColor": "#d2232a",
 		"requestStatus": "closed",
 		"closeDate": "2023-01-15",
+		"ticketType": "closed",
 		"comments":[ 
 			{
 			      "id": 0,
@@ -214,6 +218,7 @@
 		"inProgressDate": "-",
 		"expectedCloseDate": "2023-01-30",
 		"isEscalate": false,
+		"ticketType": "open",
 		"comments":[ 
 			{
 			      "id": 0,
@@ -256,6 +261,7 @@
 		"inProgressDate": "-",
 		"expectedCloseDate": "2023-01-10",
 		"isEscalate": true,
+		"ticketType": "open",
 		"comments":[ 
 			{
 			      "id": 0,
@@ -298,6 +304,7 @@
 		"inProgressDate": "-",
 		"expectedCloseDate": "2023-01-20",
 		"isEscalate": true,
+		"ticketType": "open",
 		"comments":[{}]
         },
 
@@ -314,6 +321,7 @@
 		"inProgressDate": "-",
 		"expectedCloseDate": "2023-01-30",
 		"isEscalate": false,
+		"ticketType": "open",
 		"comments":[{}]
         }
 
@@ -329,7 +337,8 @@
 		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
 		    "openDate": "2023-01-20",
 		    "statusColor": "#d2232a",
-		    "requestStatus": "closed"   
+		    "requestStatus": "closed"
+		    "ticketType": "feedback"
           },
 
           {
@@ -339,7 +348,8 @@
 		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
 		    "openDate": "2023-01-18",
 		    "statusColor": "#d2232a",
-		    "requestStatus": "closed"  
+		    "requestStatus": "closed"
+		    "ticketType": "feedback"
           },
 
           {
@@ -350,6 +360,7 @@
 		    "openDate": "2023-01-23",
 		    "statusColor": "#d2232a",
 		    "requestStatus": "closed"  
+		    "ticketType": "feedback"
           }
   
      ] 
