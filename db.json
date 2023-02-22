@@ -323,24 +323,33 @@
 
    "ticketsFeedback": [
           {
-            "subject": "Academics - Pearson books not available",
-            "openDate": "2023-01-20",
-            "statusColor": "#d2232a",
-            "requestStatus": "closed"   
+		    "subject": "Academics - Pearson books not available",
+		    "category": "Academics",
+		    "subCategory": "Calendar",
+		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
+		    "openDate": "2023-01-20",
+		    "statusColor": "#d2232a",
+		    "requestStatus": "closed"   
           },
 
           {
-            "subject": "Academics - Sessions video not found",
-            "openDate": "2023-01-18",
-            "statusColor": "#d2232a",
-            "requestStatus": "closed"  
+		    "subject": "Academics - Sessions video not found",
+		    "category": "Academics",
+		    "subCategory": "Calendar",
+		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
+		    "openDate": "2023-01-18",
+		    "statusColor": "#d2232a",
+		    "requestStatus": "closed"  
           },
 
           {
-            "subject": "Academics - Academics calendar showing duplicate data",
-            "openDate": "2023-01-23",
-            "statusColor": "#d2232a",
-            "requestStatus": "closed"  
+		    "subject": "Academics - Academics calendar showing duplicate data",
+		    "category": "Academics",
+		    "subCategory": "Calendar",
+		    "description": "From last week, calendar showing duplicate data of other dates, events are not in updated manner, please solve the issue",
+		    "openDate": "2023-01-23",
+		    "statusColor": "#d2232a",
+		    "requestStatus": "closed"  
           }
   
      ] 
