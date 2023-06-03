@@ -27,79 +27,150 @@
       "middleName": "Chiku",
       "lastName": "Kohli",
       "age": 39
+    },
+    {
+      "subject": "Academics - Hello World",
+      "id": 5
     }
   ],
-
   "tickets": [
-	{
-        "subject": "Academics - Pearson books not available",
-        "ticketNo": "00001819",
-        "openDate": "2023-01-23",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-30",
-        "isEscalate": true
-        },
-
-	{
-        "subject": "Academics - Sessions video not found",
-        "ticketNo": "00001829",
-        "openDate": "2023-01-01",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-10",
-        "isEscalate": true
-        },
-
-	{
-        "subject": "Academics - Unable to download resources",
-        "ticketNo": "00001719",
-        "openDate": "2023-01-05",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-20",
-        "isEscalate": false
-        },
-
-	{
-        "subject": "Academics - Academics calendar showing duplicate data",
-        "ticketNo": "00001919",
-        "openDate": "2023-01-28",
-        "statusColor": "#d2232a",
-        "requestStatus": "open",
-        "inProgressDate": "-",
-        "expectedCloseDate": "2023-01-30",
-        "isEscalate": true
-        }
-
-
-   ],
-
-   "ticketsFeedback": [
-          {
-            "subject": "Academics - Pearson books not available",
-            "openDate": "2023-01-20",
-            "statusColor": "#d2232a",
-            "requestStatus": "closed"  
-          },
-
-          {
-            "subject": "Academics - Sessions video not found",
-            "openDate": "2023-01-18",
-            "statusColor": "#d2232a",
-            "requestStatus": "closed"  
-          },
-
-          {
-            "subject": "Academics - Academics calendar showing duplicate data",
-            "openDate": "2023-01-23",
-            "statusColor": "#d2232a",
-            "requestStatus": "closed"  
-          }
+    {
+      "subject": "Academics - Pearson books not available",
+      "ticketNo": "00001819",
+      "openDate": "2023-01-23",
+      "statusColor": "#d2232a",
+      "requestStatus": "open",
+      "inProgressDate": "-",
+      "expectedCloseDate": "2023-01-30",
+      "isEscalate": true
+    },
+    {
+      "subject": "Academics - Sessions video not found",
+      "ticketNo": "00001829",
+      "openDate": "2023-01-01",
+      "statusColor": "#d2232a",
+      "requestStatus": "open",
+      "inProgressDate": "-",
+      "expectedCloseDate": "2023-01-10",
+      "isEscalate": true
+    },
+    {
+      "subject": "Academics - Unable to download resources",
+      "ticketNo": "00001719",
+      "openDate": "2023-01-05",
+      "statusColor": "#d2232a",
+      "requestStatus": "open",
+      "inProgressDate": "-",
+      "expectedCloseDate": "2023-01-20",
+      "isEscalate": false
+    },
+    {
+      "subject": "Academics - Academics calendar showing duplicate data",
+      "ticketNo": "00001919",
+      "openDate": "2023-01-28",
+      "statusColor": "#d2232a",
+      "requestStatus": "open",
+      "inProgressDate": "-",
+      "expectedCloseDate": "2023-01-30",
+      "isEscalate": true
+    }
+  ],
+  "ticketsFeedback": [
+    {
+      "subject": "Academics - Pearson books not available",
+      "openDate": "2023-01-20",
+      "statusColor": "#d2232a",
+      "requestStatus": "closed"
+    },
+    {
+      "subject": "Academics - Sessions video not found",
+      "openDate": "2023-01-18",
+      "statusColor": "#d2232a",
+      "requestStatus": "closed"
+    },
+    {
+      "subject": "Academics - Academics calendar showing duplicate data",
+      "openDate": "2023-01-23",
+      "statusColor": "#d2232a",
+      "requestStatus": "closed"
+    }
+  ],
+  "positions": [
+    {
+      "id": 0,
+      "is_fresher": "0",
+      "employer": "IBM",
+      "job_title": "Engineer",
+      "city": "Mumbai",
+      "state": "Maharashatra",
+      "start_date": "2023-04-11",
+      "end_date": "2023-04-13",
+      "is_present_on_work": "0",
+      "description": "Desc"
+    },
+    {
+      "id": 1,
+      "is_fresher": "0",
+      "employer": "IBM",
+      "job_title": "Engineer",
+      "city": "Mumbai",
+      "state": "Maharashatra",
+      "start_date": "2023-04-11",
+      "end_date": "2023-04-13",
+      "is_present_on_work": "0",
+      "description": "Desc"
+    },
+    {
+      "id": 2,
+      "is_fresher": "0",
+      "employer": "IBM",
+      "job_title": "Engineer",
+      "city": "Mumbai",
+      "state": "Maharashatra",
+      "start_date": "2023-04-11",
+      "end_date": "2023-04-13",
+      "is_present_on_work": "0",
+      "description": "Desc"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
   
-     ]
-
+    "suggestions": [
+      {
+        "title": "Marketing Management Chapter 1"
+      },
+      {
+        "title": "Marketing Management Chapter 2"
+      },
+      {
+        "title": "Marketing Management Chapter 3"
+      },
+      {
+        "title": "Marketing Management Session 1"
+      },
+      {
+        "title": "Marketing Management Session 2"
+      },
+      {
+        "title": "Marketing Management Session 3"
+      },
+      {
+        "title": "Could you please list out the topics that we are expected to cover for tomorrow's IA ie IA 2. Thanks",
+        "answer": "Please refer to chapter no. 1-3 in Marketing Management text book."
+      },
+      {
+        "title": "Could you please list out the topics that we are expected to cover for tomorrow's IA ie IA 2. Thanks",
+        "answer": "Please refer to chapter no. 1-3 in Marketing Management text book."
+      },
+      {
+        "title": "Could you please list out the topics that we are expected to cover for tomorrow's IA ie IA 2. Thanks",
+        "answer": "Please refer to chapter no. 1-3 in Marketing Management text book."
+      }
+    ]
+  
 }
